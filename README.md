@@ -8,6 +8,7 @@ Right now:
 
 - Arch and Artix work fine
 - Ubuntu Server works fine now
+- Rocky works fine now
 - NixOS works, but could probably do with modifications
     - related to `/findiso`
-- Proxmox and Rocky do NOT work.
+- Proxmox does NOT work.
